@@ -8,6 +8,7 @@
             "type": "pwa-msedge",
             "request": "launch",
             "name": "Run PWA",
+            "display": "standalone",
             "webRoot": "${workspaceFolder}/build",
             "runtimeArgs": [
                 "--app=http://localhost:8000"
